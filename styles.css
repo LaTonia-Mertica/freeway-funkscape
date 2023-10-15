@@ -1,15 +1,78 @@
+/* universal reset */
 * {
   margin: 0;
 }
+/* boost fluid design  */
 html,
 body {
   box-sizing: border-box;
 }
+/* background */
+body {
+  background-color: #101114;
+}
+/* video courtesy dorelys figueroa  */
+video {
+  width: 100%;
+  border-bottom: 0.025em solid greenyellow;
+}
+.video-div {
+  position: relative;
+}
+.overlay {
+  color: greenyellow;
+  position: absolute;
+  top: 57%;
+  left: 57%;
+  text-shadow: 0.05em 0.1em crimson;
+}
+h1 {
+  font-size: large;
+}
+.ftl {
+  float: left;
+}
+.ftr {
+  float: right;
+}
+/* start of table styles  */
+/* border sides */
+table {
+  margin: 3.25em 4.45em;
+  border-left: 0.15em dotted greenyellow;
+  border-right: 0.15em dotted greenyellow;
+}
+th {
+  color: greenyellow;
+  font-size: 4.25em;
+  text-align: center;
+  font-variant: small-caps;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+td {
+  padding: 1.05em;
+  text-align: justify;
+}
+.color1 {
+  color: #5b6064;
+  text-shadow: 0.025em 0.025em whitesmoke;
+}
+.color2 {
+  color: #80868a;
+  text-shadow: 0.025em 0.025em whitesmoke;
+}
+.tfh {
+  font-size: xx-small;
+}
+/* end of table styles  */
+/* page footer */
+footer {
+  color: crimson;
+  text-align: center;
+  font-size: small;
+  margin-bottom: 0.5em;
+}
+
 /* 
-- comments  
-- text colors
-- background
-- border
-- table
 - float
 */
