@@ -1,5 +1,7 @@
 # FREEWAY FUNKSCAPE
 
+###### [site live demo](https://www.latoniamertica.dev/freeway-funkscape/)
+
 _a funky adventure with no discernible rhyme or reason_
 
 **MOTIVATION**
@@ -24,7 +26,3 @@ _a funky adventure with no discernible rhyme or reason_
 - [Github](github.com)
 - [Pixabay](pixabay.com)
 - [VS Code](code.visualstudio.com)
-
-```
-
-```
