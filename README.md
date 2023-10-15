@@ -1,2 +1,2 @@
-# freeway-funkscape
-a funky adventure
+# FREEWAY FUNKSCAPE
+*a funky adventure*
