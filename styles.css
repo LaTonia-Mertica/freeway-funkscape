@@ -20,11 +20,9 @@ video {
   position: relative;
 }
 .overlay {
-  color: greenyellow;
   position: absolute;
   top: 57%;
   left: 57%;
-  text-shadow: 0.05em 0.1em crimson;
 }
 h1 {
   font-size: large;
@@ -38,12 +36,11 @@ h1 {
 /* start of table styles  */
 /* border sides */
 table {
-  margin: 3.25em 4.45em;
+  margin: auto auto;
   border-left: 0.15em dotted greenyellow;
   border-right: 0.15em dotted greenyellow;
 }
 th {
-  color: greenyellow;
   font-size: 4.25em;
   text-align: center;
   font-variant: small-caps;
@@ -53,22 +50,38 @@ td {
   padding: 1.05em;
   text-align: justify;
 }
-.color1 {
-  color: #5b6064;
-  text-shadow: 0.025em 0.025em whitesmoke;
-}
-.color2 {
-  color: #80868a;
-  text-shadow: 0.025em 0.025em whitesmoke;
-}
 .tfh {
   font-size: xx-small;
 }
 /* end of table styles  */
 /* page footer */
 footer {
-  color: crimson;
   text-align: center;
   font-size: small;
-  margin-bottom: 0.5em;
+  margin-top: 3.45em;
+  padding-top: 0.5em;
+  border-top: 0.15em dotted dodgerblue;
+  text-shadow: 0.015em 0.015em #000;
+}
+/* color classes */
+.color1 {
+  color: blue;
+}
+.color2 {
+  color: dodgerblue;
+}
+.color3 {
+  color: greenyellow;
+}
+.color4 {
+  color: palevioletred;
+}
+.color5 {
+  color: palegreen;
+}
+.color6 {
+  color: red;
+}
+.color7 {
+  color: yellow;
 }
